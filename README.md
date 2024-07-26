@@ -1,8 +1,14 @@
-🔭 I’m currently a Data Science Intern at AnalytixLab
+## About Me
+I'm Ritik Sharma, a Data Science Intern at AnalytixLab with a passion for data analytics. My skills include Python, SQL, and Machine Learning.
 
-🌱 I’m currently learning Data Science, Data Analytics, Artificial Intelligence
+## Skills
+- **Languages:** Python, SQL, C++
+- **Tools:** Excel, Power BI, Tableau
+- **Areas of Interest:** Data Science, Machine Learning
 
-💬 Ask me about DataScience, Ml
+## Featured Projects
+- **[Netflix Analysis](https://github.com/ritik2107sh/NETFLIX-ANALYSIS)**
+- **[Zomato Data Analysis Using Snowflake](https://github.com/ritik2107sh/Zomato-Data-Analysis-Using-Snowflake)**
+- **[Stress Detection Using Machine Learning](https://github.com/ritik2107sh/Stress-Detection-Using-Machine-Learning)**
 
-Languages and Tools:
-Python, SQL, EXCEL, POWER BI, C++, HTML, CSS, Tableau, Machine Learning, NLP
+Connect on [LinkedIn](https://www.linkedin.com/in/ritik-sharma-87543a234/).
