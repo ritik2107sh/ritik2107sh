@@ -1,10 +1,11 @@
 ## About Me
-I'm Ritik Sharma, a Data Science Intern at AnalytixLab with a passion for data analytics. My skills include Python, SQL, and Machine Learning.
+I'm Ritik Sharma, a Product Analyst at Scaletrix.ai with a passion for data analytics. My skills include Python, SQL, and Machine Learning.
 
 ## Skills
 - **Languages:** Python, SQL, C++
 - **Tools:** Excel, Power BI, Tableau
 - **Areas of Interest:** Data Science, Machine Learning
+- **Cloud Platefrom:** AWS, Snowflake
 
 ## Featured Projects
 - **[Netflix Analysis](https://github.com/ritik2107sh/NETFLIX-ANALYSIS)**
